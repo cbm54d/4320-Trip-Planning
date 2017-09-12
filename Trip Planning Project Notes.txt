@@ -1,0 +1,48 @@
+* Constraints/Constant Factors of the Trip
+    * budget    =    pick at start (team chosen)
+        * Remember, you are expected to get your money’s worth out of the trip; if you have tons of money, you’re expected to achieve a level of trip consistent with that amount.
+        * Always try to get the most of your money.
+        * How much money per person do you want to spend?
+    * length of trip    =    5 days
+    * when trip occurs    =    Dec. 17-21
+    * location
+        * established by the team
+        * either choose at start and make this your goal or choosing destination is part of your plan
+    * purpose
+        * established by the team
+        * examples: have a vacation, attend some event, etc.
+* How this is analogous to a software project using SCRUM
+    * Stories
+        * ex: transportation
+            * one vehicle? many? bike rack? What are the pros and cons of each potential approach to this issue?
+        * ex: food
+        * ex: lodging
+        * ex: activities
+        * ex: ensure all this conforms to the budget
+    * MVP for a trip:
+        * get there
+        * get back
+        * don’t starve to death
+* Purpose of this project is just to use a SCRUM tool to do a project with a group without concerns about technical skill regarding coding and stuff.
+* Stuff to be done in a public GitHub repository and on that SCRUM management tool.
+* If you get airline tickets or whatever, you can go to the actual website and take screenshots or pdfs or whatever of your tickets, which you can link to in your markdown thing
+* Recommended: 4 sprints of 3 days each
+* Rules for Members of Team
+    * Product Owner – 
+    * SCRUM Master – 
+    * everyone else is a Dev. (but the other two should still contribute work beyond their designated roles…)
+* Team 17
+Liebman,Jordan Spencer
+jslz85@mail.missouri.edu
+Meyer,Benjamin Joseph
+bjmgy4@mail.missouri.edu
+Mitchell,Christopher Becker
+cbm54d@mail.missouri.edu
+Rieves,Greg Lamorris
+glrww3@mail.missouri.edu
+Sherod,Devante Dufray
+dds5hd@mail.missouri.edu
+Thomas,Michael
+mlt6c7@mail.missouri.edu
+
+
