@@ -69,3 +69,11 @@
 | Bubba Gump Shrimp | $142.47 |
 | Ubers | Around $107.00 |
 | **Total** |**$1564.01**|
+
+![Activities Tickets](https://github.com/cbm54d/4320-Trip-Planning/blob/master/12:17%20Activities%20Tickets.png?raw=true)
+
+![Lunch](https://github.com/cbm54d/4320-Trip-Planning/blob/master/12:17%20Lunch%20.png?raw=true)
+
+![Dinner](https://github.com/cbm54d/4320-Trip-Planning/blob/master/12:17%20Dinner%20.png?raw=true)
+
+![Uber Estimates](https://github.com/cbm54d/4320-Trip-Planning/blob/master/12:17%20Uber%20Estimate%20Costs.png?raw=true)
