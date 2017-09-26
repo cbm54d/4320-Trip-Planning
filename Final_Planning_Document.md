@@ -4,14 +4,14 @@
 
 |Day/Expense|Cost|
 |:--:|:--:|
-|Day 1 (12-17)|$1564|
-|Day 2 (12-18)|$8536 – $gambling|
-|Day 3 (12-19)|$2364|
-|Day 4 (12-20)|$3354|
-|Day 5 (12-21)|$82|
+|Day 1 (12-17)|$1566|
+|Day 2 (12-18)|$16334|
+|Day 3 (12-19)|$2354|
+|Day 4 (12-20)|$3557|
+|Day 5 (12-21)|$90|
 |Hotel|$1536|
-|Air Fare|$1800 (?)|
-|**Total**|**$19236 – $30000**|
+|Air Fare|$1800|
+|**Total**|**$27237 – $30000**|
 
 ## The Plan
 ### Day 1 (12-17)
@@ -60,7 +60,6 @@
 |Date|Activity|Cost|
 |:--:|:--:|:--:|
 |12-17|Breakfast at IHOP|$68|
-|12-17|Air Fare from Columbia to Vegas|**???**$1800|
 |12-17|Lunch at Strip Burger|$98|
 |12-17|Paranormal Mind Reading Magic Show|$329|
 |12-17|Dinner at Bubba Gump Shrimp|$143|
@@ -68,9 +67,9 @@
 |12-17|Overall Transportation Costs for 12-17|$107|
 |12-18|Breakfast at hotel's buffet|$0|
 |12-18|Rent limo for the day|$1500|
-|12-18|Gamble at hotel|$TBD|
+|12-18|Gamble at hotel|$1800|
 |12-18|Lunch in hotel room (cook using ingredients delivered from grocery store)|$300|
-|12-18|Gamble at City Center|$TBD|
+|12-18|Gamble at City Center|$6000|
 |12-18|Dinner at Paris Hotel (Kobe beef and Maine lobster burgers)|$5564|
 |12-18|"Le Rêve - The Dream" Show|$1170|
 |12-19|Brunch at Honey Salt|$144|
@@ -85,4 +84,5 @@
 |12-20|	Cirque du Soleil|$963	|
 |12-21|Earl of Sandwhich|$90|
 | All |Overall Cost of Hotel|$1536|
-|**Total**|—|**$19437**|
+| All |Air Fare for entire trip|$1800|
+|**Total**|—|**$27237**|
