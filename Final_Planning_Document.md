@@ -43,8 +43,18 @@
 * Return to hotel – 11:00pm
 
 ### Day 4 (12-20)
+* **Breakfast** Hotel
+*  **Lunch** The Capital Grille - 12:00pm
+*  Exotic Car Track - 2:00pm
+*  **Dinner** Della's Kitchen 6:30pm
+* Cirque Du Soleil - 9:30pm
+
+
 
 ### Day 5 (12-21)
+
+* **Brunch** Earl of Sandwhich - 10:00pm
+
 
 ## Budget
 |Date|Activity|Cost|
@@ -69,7 +79,10 @@
 |12-19|Dinner at THE Steak House|$840|
 |12-19|Blue Man Group|$1130|
 |12-19|Overall Transportation Costs for 12-19|$110|
-|12-20|||
-|12-21|||
+|12-20|Lunch at The Captial Grille|$500|
+|12-20|Exotic Car Track	|$1644	|
+|12-20|	Dinner at Della's Kitchen|$450	|
+|12-20|	Cirque du Soleil|$963	|
+|12-21|Earl of Sandwhich|$90|
 | All |Overall Cost of Hotel|$1536|
-|**Total**|—|$TBD|
+|**Total**|—|**$19437**|
